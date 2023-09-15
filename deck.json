@@ -1,0 +1,394 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "8b004e82-53a1-11ee-a2d3-50eb714989dc",
+    "deck_config_uuid": "68dd0c3e-3f22-11ee-b216-50eb714989dc",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "68dd0c3e-3f22-11ee-b216-50eb714989dc",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 26
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "NATO Phonetic Alphabet",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-c1132",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "A",
+                "Alpha<div><font color=\"#808080\"><i><sub>[Al fah]</sub></i></font></div>"
+            ],
+            "guid": "lI84[T<o7q",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "B",
+                "Bravo<div><sub><font color=\"#808080\"><i>[Brah Voh]</i></font></sub></div>"
+            ],
+            "guid": "dQ/U}v[E|`",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "C",
+                "Charlie<div><sub><i><font color=\"#808080\">[Char Lee]</font></i></sub></div>"
+            ],
+            "guid": "l3p?Rp}KkR",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "D",
+                "Delta<div><sub><i><font color=\"#808080\">[Dell Tah]</font></i></sub></div>"
+            ],
+            "guid": "cDKJJtUm%C",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "E",
+                "Echo<div><sub><i><font color=\"#808080\">[Eck Oh]</font></i></sub></div>"
+            ],
+            "guid": "yz,,)KBvZk",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "F",
+                "Foxtrot<div><sub><i><font color=\"#808080\">[Foks Trot]</font></i></sub></div>"
+            ],
+            "guid": "MJjM{}r;9$",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "G",
+                "Golf<div><sub><i><font color=\"#808080\">[Golf]</font></i></sub></div>"
+            ],
+            "guid": "N)L]t|G1Md",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "H",
+                "Hotel<div><sub><i><font color=\"#808080\">[Hoh Tell]</font></i></sub></div>"
+            ],
+            "guid": "v--<6dr{?7",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I",
+                "India<div><sub><i><font color=\"#808080\">[In Dee Ah]</font></i></sub></div>"
+            ],
+            "guid": "EzYfKcTPHY",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "J",
+                "Juliett<div><sub><i><font color=\"#808080\">[Jew Lee Ett]</font></i></sub></div>"
+            ],
+            "guid": "ox)k(Jm%@R",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "K",
+                "Kilo<div><sub><i><font color=\"#808080\">[Key Loh]</font></i></sub></div>"
+            ],
+            "guid": "Au%<0n-)^A",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L",
+                "Lima<div><sub><i><font color=\"#808080\">[Lee Mah]</font></i></sub></div>"
+            ],
+            "guid": "I/lrt.7OUx",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "M",
+                "Mike<div><sub><i><font color=\"#808080\">[Mike]</font></i></sub></div>"
+            ],
+            "guid": "BXnu*!+AAs",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "N",
+                "November<div><sub><i><font color=\"#808080\">[No Vem Ber]</font></i></sub></div>"
+            ],
+            "guid": "PMWI$+y_hx",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "O",
+                "Oscar<div><sub><i><font color=\"#808080\">[Oss Car]</font></i></sub></div>"
+            ],
+            "guid": "qy<>!sQu6;",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "P",
+                "Papa<div><i><font color=\"#808080\"><sub>[Pah Pah]</sub></font></i></div>"
+            ],
+            "guid": "Ao?kni0Cz]",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Q",
+                "Quebec<div><sub><i><font color=\"#808080\">[Keh Beck]</font></i></sub></div>"
+            ],
+            "guid": "Euz!5gpewG",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "R",
+                "Romeo<div><sub><i><font color=\"#808080\">[Row Me Oh]</font></i></sub></div>"
+            ],
+            "guid": "pA8<;2h*vA",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "S",
+                "Sierra<div><sub><i><font color=\"#808080\">[See Air Ah]</font></i></sub></div>"
+            ],
+            "guid": "rdM91|6.7X",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "T",
+                "Tango<div><sub><i><font color=\"#808080\">[Tang Go]</font></i></sub></div>"
+            ],
+            "guid": "E`c;{$&>~P",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "U",
+                "Uniform<div><sub><i><font color=\"#808080\">[You Nee Form]</font></i></sub></div>"
+            ],
+            "guid": "N9~pn</|u|",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "V",
+                "Victor<div><sub><i><font color=\"#808080\">[Vik Tah]</font></i></sub></div>"
+            ],
+            "guid": "r]gS5QUp;w",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "W",
+                "Whiskey<div><sub><i><font color=\"#808080\">[<font size=\"4\">Wiss Key</font>]</font></i></sub></div>"
+            ],
+            "guid": "q-(<PSQk&9",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "X",
+                "X Ray<div><sub><i><font color=\"#808080\">[Ecks Ray]</font></i></sub></div>"
+            ],
+            "guid": "L5(=ryK6Xz",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Y",
+                "Yankee<div><sub><i><font color=\"#808080\">[Yang Key]</font></i></sub></div>"
+            ],
+            "guid": "heNS<ZqN~R",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Z",
+                "Zulu<div><sub><i><font color=\"#808080\">[Zoo Loo]</font></i></sub></div>"
+            ],
+            "guid": "KC:PS4OxeT",
+            "note_model_uuid": "8b00914e-53a1-11ee-a2d3-50eb714989dc",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
